@@ -1,0 +1,37 @@
+솔직하게 시간 너무 빡세다싶긴한데 그래도 배우는게 있어서 괜찮은것 같다
+
+git clone
+git add <file name>
+git commit
+
+conversational commit
+
+
+git push
+
+git push origin main
+
+
+브랜치 생성
+git branch <branch name>
+
+브랜치 이동
+git switch <branch name>
+
+브랜치 현재 상태의 브랜치에 머지
+git merge <branch name>
+
+브랜치 삭제
+git barnch -D <branch name>
+
+브랜치 push
+git push -u origin <branch name>
+
+pre-commit
+
+github 는 latex로 수식을 표현도 가능
+
+gitignore 로 add 안할것 또는 ignore할수 있도록 함
+
+git remote -v
+git branch -a
